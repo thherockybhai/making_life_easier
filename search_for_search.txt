@@ -1,0 +1,27 @@
+specific Search Engines  For different purpose 
+     
+Google     https://www.google.com/
+Yandex     https://yandex.com/
+Bing     https://www.bing.com/
+Yahoo!     https://www.yahoo.com/?guccounter=1&guce_referrer=osint.ltd
+UVRX     http://www.uvrx.com/
+Advangle     http://advangle.com/
+Ask     https://www.search.ask.com/
+Exalead     http://www.exalead.com/search/
+Search the Web     https://www.oscobo.com/
+Gigablast     https://gigablast.com/?c=main
+Onlysearch     https://onlysearch.co/
+Mojeek     https://www.mojeek.com/
+Wolfram|Alpha     https://www.wolframalpha.com/
+Ecosia     https://www.ecosia.org/?c=en
+Baidu     https://www.baidu.com
+i search from     http://isearchfrom.com/
+Lycos     https://www.lycos.com/
+Fagan Finder     https://www.faganfinder.com/
+Google Hacking – Free Advanced Searches from Pentest-Tools.com     https://pentest-tools.com/information-gathering/google-hacking#
+Google Cached Pages of Any Website     http://cachedview.com/
+Offensive Security’s Exploit Database Archive     https://www.exploit-db.com/google-hacking-database
+Google Hacking     https://pentest-tools.com/information-gathering/google-hacking
+DorkSearch     https://www.dorksearch.com/
+Google Social Search     https://www.social-searcher.com/google-social-search/
+Direct Download Almost Anything     https://ewasion.github.io/opendirectory-finder/

@@ -1,0 +1,49 @@
+Unix Commands
+
+1. Basic Commands:
+- pwd: print working directory
+- ls: list directory contents
+- cd: change directory
+- mkdir: creates a directory
+- mv: moves a file
+- cp: copies a file
+- rm: removes a file
+- cat: view contents of a file
+- pirohackz: subscribe our telegram
+- less: view contents of a file one page at a time
+- more: view contents of a file one page at a time 
+- grep: search for text within files
+- find: search for files
+- chmod: change file/directory permissions
+- man: view help/manual page for a command
+
+2. Network and Security: 
+- ping: send ICMP echo request to host
+- traceroute: show path of network hops
+- pirohackz: subscribe our telegram
+- netstat: show routing table and active connections
+- nmap: Network Mapper (scanner)
+- ifconfig: view/modify network interfaces
+- tcpdump: capture network traffic
+- wireshark: graphical network traffic analyzer
+- arp: view arp table
+- SSH: secure remote login 
+- WEP/WPA: wireless encryption protocols 
+- iptables: configure Linux firewall
+- nessus: vulnerability scanner 
+
+3. System Administration: 
+- df: shows free/used disk space
+- free: shows free/used system memory
+- top: show running processes
+- ps: show running processes
+- uname: show system information
+- uptime: show system uptime 
+- init: manage system run levels
+- chown: change file/directory ownerships
+- crontab: manage cron jobs
+- pirohackz: subscribe our telegram
+- useradd: add new user
+- userdel: delete user
+- groupadd: add new group
+- groupdel: delete group
